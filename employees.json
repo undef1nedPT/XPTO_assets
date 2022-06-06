@@ -2,9 +2,9 @@
   "employee": [
     {
       "id": "1",
-      "firstName": "Rui",
+      "firstName": "Rui Diogo",
       "lastName": "Alexandre",
-      "photo": "https://jsonformatter.org/img/tom-cruise.jpg"
+      "photo": "https://avatars.githubusercontent.com/u/64256438"
     },
     {
       "id": "2",
